@@ -1,0 +1,24 @@
+---
+description: Vault 文件变更后自动 git commit 并 push 到 origin（见 auto-sync-remote.md）
+alwaysApply: true
+---
+
+# 自动同步远端
+
+完成对本仓库（Obsidian Vault）的**任何文件写入或删除**后，在同一轮回复结束前执行远端同步。
+
+## 流程
+
+1. 阅读并遵循 [.cursor/skills/auto-sync-remote.md](.cursor/skills/auto-sync-remote.md)。
+2. 使用 Skill [@.cursor/skills/git-push-remote](.cursor/skills/git-push-remote/SKILL.md) 中的脚本推送。
+3. 在 Vault 根目录运行：
+
+```bash
+python3 .cursor/skills/git-push-remote/scripts/git_push.py -m "<与本次变更相关的提交说明>"
+```
+
+## 例外
+
+- 未修改文件 → 不执行 push
+- 用户明确禁止提交/推送 → 跳过
+- push 失败 → 报告错误，禁止擅自 `--force`
