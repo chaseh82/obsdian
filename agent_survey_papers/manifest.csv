@@ -1,0 +1,37 @@
+category,slug,title,url,local_path,bytes
+01_LLM工具使用,API_Bank_Li_2023_EMNLP,API-Bank — Li et al.; EMNLP 2023,https://aclanthology.org/2023.emnlp-main.187.pdf,docs/agent_survey_papers/01_LLM工具使用/API_Bank_Li_2023_EMNLP.pdf,779792
+01_LLM工具使用,Gorilla_Patil_2024_NeurIPS,Gorilla — Patil et al.; NeurIPS 2024,https://openreview.net/pdf?id=tBRNC6YemY,docs/agent_survey_papers/01_LLM工具使用/Gorilla_Patil_2024_NeurIPS.pdf,1214009
+01_LLM工具使用,ReAct_Yao_2023_ICLR,ReAct — Yao et al.; ICLR 2023,https://openreview.net/pdf?id=WE_vluYUL-X,docs/agent_survey_papers/01_LLM工具使用/ReAct_Yao_2023_ICLR.pdf,518217
+01_LLM工具使用,StableToolBench_Guo_2024_ACL_Findings,StableToolBench — Guo et al.; Findings ACL 2024,https://aclanthology.org/2024.findings-acl.664.pdf,docs/agent_survey_papers/01_LLM工具使用/StableToolBench_Guo_2024_ACL_Findings.pdf,577968
+01_LLM工具使用,Toolformer_Schick_2023_NeurIPS,Toolformer — Schick et al.; NeurIPS 2023,https://arxiv.org/pdf/2302.04761.pdf,docs/agent_survey_papers/01_LLM工具使用/Toolformer_Schick_2023_NeurIPS.pdf,657966
+02_规划层级与自主执行,Feudal_RL_Dayan_Hinton_1993_NIPS,Feudal Reinforcement Learning — Dayan & Hinton; NIPS 1993,https://www.cs.toronto.edu/~fritz/absps/dh93.pdf,docs/agent_survey_papers/02_规划层级与自主执行/Feudal_RL_Dayan_Hinton_1993_NIPS.pdf,45507
+02_规划层级与自主执行,Generative_Agents_Park_2023_UIST,Generative Agents — Park et al.; UIST 2023,https://arxiv.org/pdf/2304.03442.pdf,docs/agent_survey_papers/02_规划层级与自主执行/Generative_Agents_Park_2023_UIST.pdf,11947867
+02_规划层级与自主执行,Options_Framework_Sutton_1999_AI,"Options Framework — Sutton, Precup, Singh; AI 1999",http://incompleteideas.net/papers/SPS-aij.pdf,docs/agent_survey_papers/02_规划层级与自主执行/Options_Framework_Sutton_1999_AI.pdf,829204
+02_规划层级与自主执行,RAP_Hao_2023_EMNLP,RAP — Hao et al.; EMNLP 2023,https://aclanthology.org/2023.emnlp-main.507.pdf,docs/agent_survey_papers/02_规划层级与自主执行/RAP_Hao_2023_EMNLP.pdf,731988
+02_规划层级与自主执行,Tree_of_Thoughts_Yao_2023_NeurIPS,Tree of Thoughts — Yao et al.; NeurIPS 2023,https://openreview.net/pdf?id=5Xc1ecxO1h,docs/agent_survey_papers/02_规划层级与自主执行/Tree_of_Thoughts_Yao_2023_NeurIPS.pdf,716715
+02_规划层级与自主执行,Voyager_Wang_2024_TMLR,Voyager — Wang et al.; TMLR 2024,https://openreview.net/pdf?id=ehfRiF0R3a,docs/agent_survey_papers/02_规划层级与自主执行/Voyager_Wang_2024_TMLR.pdf,13902990
+03_多智能体强化学习,MARL_Survey_Ning_2024_JAI,MARL Survey — Ning et al.; Journal of Artificial Intelligence 2024,https://www.sciopen.com/local/article_pdf/10.1016/j.jai.2024.02.003.pdf,docs/agent_survey_papers/03_多智能体强化学习/MARL_Survey_Ning_2024_JAI.pdf,1653906
+03_多智能体强化学习,Melting_Pot_Leibo_2021_ICML,Melting Pot — Leibo et al.; ICML 2021,https://proceedings.mlr.press/v139/leibo21a/leibo21a.pdf,docs/agent_survey_papers/03_多智能体强化学习/Melting_Pot_Leibo_2021_ICML.pdf,2228428
+03_多智能体强化学习,QMIX_Rashid_2018_NeurIPS,QMIX — Rashid et al.; NeurIPS 2018,https://arxiv.org/pdf/1803.11485.pdf,docs/agent_survey_papers/03_多智能体强化学习/QMIX_Rashid_2018_NeurIPS.pdf,3808951
+03_多智能体强化学习,RPM_Qiu_2023_OpenReview,RPM — Qiu et al.; OpenReview 2023,https://openreview.net/pdf?id=HnSceSzlfrY,docs/agent_survey_papers/03_多智能体强化学习/RPM_Qiu_2023_OpenReview.pdf,3311319
+03_多智能体强化学习,VDN_Sunehag_2018_AAMAS,VDN — Sunehag et al.; AAMAS 2018,https://www.ifaamas.org/Proceedings/aamas2018/pdfs/p2085.pdf,docs/agent_survey_papers/03_多智能体强化学习/VDN_Sunehag_2018_AAMAS.pdf,1413018
+04_具身智能体,DROID_Khazatsky_2024_RSS,DROID — Khazatsky et al.; RSS 2024,https://arxiv.org/pdf/2403.12945.pdf,docs/agent_survey_papers/04_具身智能体/DROID_Khazatsky_2024_RSS.pdf,9707714
+04_具身智能体,Octo_2024_RSS,Octo — Octo Model Team et al.; RSS 2024,https://www.roboticsproceedings.org/rss20/p090.pdf,docs/agent_survey_papers/04_具身智能体/Octo_2024_RSS.pdf,3411632
+04_具身智能体,OpenVLA_Kim_2025_PMLR,OpenVLA — Kim et al.; PMLR 270 2025,https://arxiv.org/pdf/2406.09246.pdf,docs/agent_survey_papers/04_具身智能体/OpenVLA_Kim_2025_PMLR.pdf,13240309
+04_具身智能体,PaLM_E_Driess_2023_ICML,PaLM-E — Driess et al.; ICML/PMLR 202,https://proceedings.mlr.press/v202/driess23a/driess23a.pdf,docs/agent_survey_papers/04_具身智能体/PaLM_E_Driess_2023_ICML.pdf,10162433
+04_具身智能体,RT_2_Brohan_2023_CoRL,RT-2 — Brohan et al.; CoRL/PMLR 229,https://proceedings.mlr.press/v229/zitkovich23a/zitkovich23a.pdf,docs/agent_survey_papers/04_具身智能体/RT_2_Brohan_2023_CoRL.pdf,15015049
+04_具身智能体,SayCan_Ahn_2022_CoRL,SayCan — Ahn et al.; CoRL/PMLR 205,https://proceedings.mlr.press/v205/ichter23a/ichter23a.pdf,docs/agent_survey_papers/04_具身智能体/SayCan_Ahn_2022_CoRL.pdf,12745682
+05_安全对齐与评测,AgentBench_Liu_2024_ICLR,AgentBench — Liu et al.; ICLR 2024,https://openreview.net/pdf?id=zAdUB0aCTQ,docs/agent_survey_papers/05_安全对齐与评测/AgentBench_Liu_2024_ICLR.pdf,23017165
+05_安全对齐与评测,AgentDojo_Debenedetti_2024_NeurIPS,AgentDojo — Debenedetti et al.; NeurIPS 2024,https://openreview.net/pdf?id=m1YYAQjO3w,docs/agent_survey_papers/05_安全对齐与评测/AgentDojo_Debenedetti_2024_NeurIPS.pdf,900328
+05_安全对齐与评测,AgentHarm_Andriushchenko_2025_ICLR,AgentHarm — Andriushchenko et al.; ICLR 2025,https://arxiv.org/pdf/2410.09024.pdf,docs/agent_survey_papers/05_安全对齐与评测/AgentHarm_Andriushchenko_2025_ICLR.pdf,1054913
+05_安全对齐与评测,Constitutional_AI_Bai_2022,Constitutional AI — Bai et al.; 2022,https://arxiv.org/pdf/2212.08073.pdf,docs/agent_survey_papers/05_安全对齐与评测/Constitutional_AI_Bai_2022.pdf,2088111
+05_安全对齐与评测,GAIA_Mialon_2023,GAIA — Mialon et al.; 2023 benchmark,https://arxiv.org/pdf/2311.12983.pdf,docs/agent_survey_papers/05_安全对齐与评测/GAIA_Mialon_2023.pdf,4254059
+05_安全对齐与评测,OSWorld_Xie_2024,OSWorld — Xie et al.; 2024,https://arxiv.org/pdf/2404.07972.pdf,docs/agent_survey_papers/05_安全对齐与评测/OSWorld_Xie_2024.pdf,36863784
+05_安全对齐与评测,TheAgentCompany_Xu_2025_NeurIPS,TheAgentCompany — Xu et al.; NeurIPS 2025,https://openreview.net/pdf?id=LZnKNApvhG,docs/agent_survey_papers/05_安全对齐与评测/TheAgentCompany_Xu_2025_NeurIPS.pdf,2070691
+05_安全对齐与评测,ToolEmu_Ruan_2024_ICLR,ToolEmu — Ruan et al.; ICLR 2024,https://arxiv.org/pdf/2309.15817.pdf,docs/agent_survey_papers/05_安全对齐与评测/ToolEmu_Ruan_2024_ICLR.pdf,2712591
+05_安全对齐与评测,WebArena_Zhou_2024_NeurIPS,WebArena — Zhou et al.; NeurIPS 2024,https://arxiv.org/pdf/2307.13854.pdf,docs/agent_survey_papers/05_安全对齐与评测/WebArena_Zhou_2024_NeurIPS.pdf,9128123
+06_综述,Agent_Survey_COLING_2025,LLM Agent Survey; COLING 2025,https://aclanthology.org/2025.coling-main.652.pdf,docs/agent_survey_papers/06_综述/Agent_Survey_COLING_2025.pdf,950906
+06_综述,Chinese_Engineering_Agent_Survey_2025,中文智能体综述; 中国工程科学 2025,https://www.engineering.org.cn/sscae/CN/PDF/10.15302/J-SSCAE-2025.07.019,docs/agent_survey_papers/06_综述/Chinese_Engineering_Agent_Survey_2025.pdf,1039654
+06_综述,Embodied_AI_Agents_Survey_2024,Embodied AI Agents Survey; 2024,https://arxiv.org/pdf/2402.02385.pdf,docs/agent_survey_papers/06_综述/Embodied_AI_Agents_Survey_2024.pdf,236816
+06_综述,LLM_Agents_Survey_Springer_2024,Survey on LLM-Based Agents; Springer 2024,https://arxiv.org/pdf/2308.11432.pdf,docs/agent_survey_papers/06_综述/LLM_Agents_Survey_Springer_2024.pdf,5788348
+06_综述,Planning_LLM_Agents_Survey_2024,Planning in LLM Agents Survey; 2024,https://arxiv.org/pdf/2402.02716.pdf,docs/agent_survey_papers/06_综述/Planning_LLM_Agents_Survey_2024.pdf,620260
